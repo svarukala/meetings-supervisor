@@ -1,0 +1,18 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.4",
+    "type": "AdaptiveCard",
+    "body": [
+      {
+        "type": "TextBlock",
+        "text": "Meeting Supervisor Bot",
+        "size": "medium",
+        "weight": "bolder"
+      },
+      {
+        "type": "TextBlock",
+        "text": "Meeting chat is disabled as the meeting has ended.",
+        "wrap": true
+      }
+    ]
+  }
